@@ -17,13 +17,13 @@ const Filter = () => {
           type="text"
           name="min"
           placeholder="min price"
-          className="text-xs rounded-2xl pl-2 w-24 ring-1 ring-gray-400"
+          className="py-3 px-4 text-xs rounded-2xl pl-2 w-24 ring-1 ring-gray-400"
         />
         <input
           type="text"
           name="max"
           placeholder="max price"
-          className="text-xs rounded-2xl pl-2 w-24 ring-1 ring-gray-400"
+          className="py-3 px-4 text-xs rounded-2xl pl-2 w-24 ring-1 ring-gray-400"
         />
         <select
           name="size"
